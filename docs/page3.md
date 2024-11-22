@@ -1,8 +1,6 @@
-# Page 2
+# Page 3
 
 ## Another heading
 
 Some more example text
 
-
-[Python](syllabus/python.md)
